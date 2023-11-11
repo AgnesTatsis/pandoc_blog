@@ -1,0 +1,20 @@
+---
+title: HCI (Human Computer Interaction)
+author: Agnes Tatsis
+date: 11/10/2023
+---
+# About the Blog:
+In this blog I will bw uploading topics considering the topic of HCI. For now, I will be stiching information about the Window Manager since it specificaly has piqued my interest the most so far.
+
+# Window Manager:
+
+A window manager (WM) is system software that controls the placement and appearance of windows within a windowing system in a graphical user interface (GUI). It can be part of a desktop environment (DE) or be used standalone.
+information source: [Arch Linux] official site.
+
+# Examples of WM:
+
+The image desplayed below is an example of how advenced and creative someone can get with WM.
+
+![A simple web manager environment. This image is copyright free.](wbarch.jpg "Example")
+
+[Arch Linux]: https://wiki.archlinux.org/title/window_manager
